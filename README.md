@@ -1,11 +1,12 @@
+원본: https://github.com/dustysys/ddetailer
+
 와일드카드 오류 수정 버전
-https://github.com/dustysys/ddetailer
 
 torch2.0+cuda118 mmdet3 fix
 
-# Detection Detailer
-
 - person 제대로 동작안함;
+
+# Detection Detailer
 
 An object detection and auto-mask extension for [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui). See [Installation](https://github.com/dustysys/ddetailer#installation).
 
