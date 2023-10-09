@@ -1,0 +1,8 @@
+__pycache__
+*.ckpt
+*.pth
+/tmp
+/outputs
+/log
+.vscode
+/test-cases
